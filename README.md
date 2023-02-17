@@ -13,7 +13,7 @@ Client의 요청을 Eureka Server에 등록된 Rest Api와 매핑해는 역할�
 
 ## 프로젝트의 주요 관심사
 <b>공통사항</b><br>
-- e-commerce에 맞는 기능 추가
+- cloud서버 업로드, Jenkins를 활용한 배포 기능 추가
 - Rest Api를 추가하여 Load Balancing을 활용한 성능 향상
 
 
