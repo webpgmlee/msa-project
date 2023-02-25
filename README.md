@@ -5,7 +5,7 @@ Microservice를 활용한 프로젝트로 Spring cloud, Eureka, Rest Api 기술�
 자세한 구현 내용은 PR에서 확인하실 수 있습니다.<br>
 
 ## 프로젝트의 전체적인 구조
-![NFT MALL 서버 구조도]()
+![NFT MALL 서버 구조도](https://github.com/webpgmlee/msa-project/blob/master/System.png)
 )
 - 각 Rest Api는 EurekaClient로 EurekaServer에서 관리하고 있습니다.
 - API GATEWAY는 Eureka Discovery Client로 Eureka Server에 등록되어<br>
