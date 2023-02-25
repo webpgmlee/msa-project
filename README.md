@@ -11,8 +11,10 @@ Microservice를 활용한 프로젝트로 Spring cloud, Eureka, Rest Api 기술�
 
 ## 프로젝트의 주요 관심사
 <b>공통사항</b><br>
+TO-DO List
+- 미구현 기능 개발
 - cloud서버 업로드, Jenkins를 활용한 배포 기능 추가
-- Rest Api를 추가하여 Load Balancing을 활용한 성능 향상
+- Rest Api를 추가하여 Load Balancing을 활용한 대용량 분산 처리 성능 향상
 
 
 ## 사용 기술 및 환경
